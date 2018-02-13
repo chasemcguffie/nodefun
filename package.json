@@ -1,0 +1,15 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "havin fun with node",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chase McGuffie",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.0.1",
+    "request": "^2.83.0"
+  }
+}
